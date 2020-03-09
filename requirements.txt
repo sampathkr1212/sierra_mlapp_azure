@@ -1,3 +1,4 @@
+azure==4.0.0
 bcrypt==3.1.7
 bootstrap4==0.1.0
 decorator==4.4.1
